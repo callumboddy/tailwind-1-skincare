@@ -36,7 +36,7 @@ function HeroModule() {
       <p className='mt-6 max-w-md'>
       Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit.
       </p>
-      <a href='#' className='mt-4 inline-block px-6 py-2 bg-gray-900 text-yellow-200 font-bold rounded-full text-sm'>Shop now</a>
+      <a href='/#' className='mt-4 inline-block px-6 py-2 bg-gray-900 text-yellow-200 font-bold rounded-full text-sm'>Shop now</a>
     </div>
     <div className='absolute bottom-0 mb-40 flex items-center'>
         <p className='text-sm'>Learn more</p>
